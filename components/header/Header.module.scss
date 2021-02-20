@@ -1,0 +1,14 @@
+.header__wrapper {
+  background-color: #986c6a;
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  padding: 1rem;
+}
+.header__logo {
+  color: white;
+  margin: 0 10px 0 0;
+}
+.header__rightSide {
+  display: grid;
+  justify-items: flex-end;
+}
